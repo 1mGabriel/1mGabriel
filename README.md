@@ -1,6 +1,6 @@
 ### Olá! me chamo Gabriel Pereira! 🤙🏽
 
-Sou estudante da área de TI, cursando Analise e Desenvolvimento de sistemas, sou apaixonado por Front-end, mas sempre busco me aprofundar para me tornar um desenvolvedor Full-Stack, seja bem vindo aos meu códigos!
+Sou estudante da área de TI, cursando Analise e Desenvolvimento de sistemas, sou apaixonado por Frontend, mas sempre busco me aprofundar para me tornar um desenvolvedor Full-Stack, seja bem vindo aos meu códigos!
 
 ### Entre em contato comigo:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mata-pereira-a81358302/)
