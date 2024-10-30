@@ -5,6 +5,7 @@ Sou estudante da área de TI, cursando Analise e Desenvolvimento de sistemas, so
 ### Entre em contato comigo:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mata-pereira-a81358302/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g__briell/)
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://gabrielpereira-frontend.vercel.app/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=1mGabriel&show_icons=true&theme=transparent)
 
